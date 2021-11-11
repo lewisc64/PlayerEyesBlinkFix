@@ -1,5 +1,7 @@
 # PlayerEyesBlinkFix
 
+This fork removes the space keybind for toggling the mod on and off.
+
 Knowledge requirements:
 1. C/C++
 2. Microsoft Visual Studio
